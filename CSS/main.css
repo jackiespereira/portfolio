@@ -65,5 +65,5 @@ main figure img {
     border-radius: 200px;
     border: 6px solid transparent;
     background: linear-gradient(#753ea3, #00e0ff, #753ea3) padding-box,
-    linear-gradient(10deg,#753ea3, #00e0ff, #753ea3) border-box
+    linear-gradient(260deg,#753ea3, #00e0ff, #753ea3) border-box
 }
