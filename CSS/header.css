@@ -13,6 +13,11 @@ header h1 {
     cursor: pointer;
 }
 
+header nav {
+    display: flex;
+    align-items: center;
+}
+
 header nav a {
     margin-right: 1.3em;
     font-size: 1.5em;
@@ -20,6 +25,7 @@ header nav a {
 
 header h1, a {
     color: #753ea3;
+    transition: 0.2s ease-in-out;
 }
 
 header h1:hover, a:hover {
